@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Introduction
 
 This allows the user to choose an STL file, and have it parsed into a surface area and the number of triangles.
-This has been built in Create React App, but the parsing asepct could easily be repackaged as an NPM package - hence the reason for it being in an utility
+This has been built in Create React App, but the parsing aspect could easily be repackaged as an NPM package - hence the reason for it being in an utility
 It is possible I think, to optimize the loop structure, and condense some of it into less iterations - however I do like the clarity of understanding when we have separate funcitons for each operation.
 
 ## Available Scripts
